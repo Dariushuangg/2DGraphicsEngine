@@ -1,0 +1,24 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "unordered_map": "cpp",
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "system_error": "cpp",
+        "atomic": "cpp",
+        "xhash": "cpp",
+        "xstring": "cpp",
+        "array": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp",
+        "type_traits": "cpp",
+        "xutility": "cpp",
+        "*.inc": "cpp",
+        "random": "cpp",
+        "cmath": "cpp"
+    }
+}
